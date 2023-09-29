@@ -34,4 +34,6 @@ Le projet :
     Ensuite je modifie un de ses fichiers et je reefectue les commandes precedentes si je veux modifier le contenu de son projet.
     Si je veux recuperer les modifications de mon camarade j'effectue git pull
 
+    ICI JE FOUS LE DAWA
+
  
