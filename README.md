@@ -33,7 +33,16 @@ Le projet :
     J'effectue git clone https://github.com/Kaegerlaften/MonGitAMoi.git
     Ensuite je modifie un de ses fichiers et je reefectue les commandes precedentes si je veux modifier le contenu de son projet.
     Si je veux recuperer les modifications de mon camarade j'effectue git pull
+    Ensuite je peux git add * 
+                    git commit -m 
+                    git push 
 
     ICI JE FOUS LE DAWA
+
+# Etape 5 : Question supplementaire 
+    git clone https://github.com/bastide/tpgit1.git
+    cd tpgit1
+    git branch maBranche   me permet de mem creer une branche
+    git checkout maBranche  Me permet daller sur celle ci, je peux ainsi modifier et commit mes modifications en toute securité sans impacté la branche principale du projet.
 
  
