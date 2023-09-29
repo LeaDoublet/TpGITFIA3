@@ -21,6 +21,17 @@ Le projet :
     Afin de cloner mon depot j'utilise la commande suivante  : git clone https://github.com/LeaDoublet/TpGITFIA3.git
     Je me deplasse dans le depot clonné cd TPGITFIA3.
     git status me permet de voir que mon fichier readme a ete modifié.
-    git add * 
+    git add * me permet d'enregistrer un instantanné de l'etat actuel du projet.
+    git commit - m "initial commit"  me permet de commiter mes modification avec un message tel que initial commit par exemple.
+    git push me permet de pusher mes modification sur mon depot git distant.
+
+# Etape 3 :  Partager le depot avec un camarade de promotion
+    Je vais dans parametres, collaborateur et j'ajoute mon camarade.
+
+# Etape 4 : Recuperer les infos d'un git d'un camarade
+    Je me place dans le dossier ou je veux clone le projet de mon camarade
+    J'effectue git clone https://github.com/Kaegerlaften/MonGitAMoi.git
+    Ensuite je modifie un de ses fichiers et je reefectue les commandes precedentes si je veux modifier le contenu de son projet.
+    Si je veux recuperer les modifications de mon camarade j'effectue git pull
 
  
