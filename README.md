@@ -44,5 +44,6 @@ Le projet :
     cd tpgit1
     git branch maBranche   me permet de mem creer une branche
     git checkout maBranche  Me permet daller sur celle ci, je peux ainsi modifier et commit mes modifications en toute securité sans impacté la branche principale du projet.
+    Je peux ensuite modifier les fichier sur ma branche comme je veux.
 
  
