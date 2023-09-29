@@ -23,4 +23,6 @@ Le projet :
     git status me permet de voir que mon fichier readme a ete modifié.
     git add * 
 
+    ICI JE FOUS LE DAWA
+
  
